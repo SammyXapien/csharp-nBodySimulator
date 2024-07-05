@@ -1,0 +1,1 @@
+time dotnet run Program.cs
